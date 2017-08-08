@@ -1,5 +1,6 @@
 # awesome-lightweights
-A list of open-source, lightweight reimplementations of other software projects.
+
+A curated list of open-source, lightweight implementations of other software projects, protocols or utilities.
 
 ## Blockchain
 
