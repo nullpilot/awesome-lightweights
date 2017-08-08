@@ -3,7 +3,9 @@ A list of open-source, lightweight reimplementations of other software projects.
 
 ## Blockchain
 
-- [Tinychain](https://github.com/jamesob/tinychain) - A pocket-sized implementation of Bitcoin 
+- [BasicCoin](https://github.com/zack-bitcoin/basiccoin) - A very small POW blockchain
+- [Naivechain](https://github.com/lhartikk/naivechain) - Blockchain implementation in 200 lines of code
+- [Tinychain](https://github.com/jamesob/tinychain) - Pocket-sized implementation of Bitcoin
 
 ## React
 
